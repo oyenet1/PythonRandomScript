@@ -6,5 +6,5 @@ import time
 time.sleep(5)
 
 for i in range(100):
-    p.typewrite("I love you so much, I am sorry")
+    p.typewrite("Are you ready")
     p.press("enter")
